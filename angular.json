@@ -16,7 +16,7 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "outputPath": "dist/intellectualconversation/browser",
+            "outputPath": "dist/intellectualconversation",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
